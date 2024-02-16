@@ -37,7 +37,7 @@ As **redes sociais** são estruturas complexas formadas por uma coleção de lig
 
 No código abaixo, faremos a análise de bases de dados do Twitter, coletados pelo software NodeXL, cujas mensagens contenham as pelavras Educação Fianceira ou Finanças Pessoais. Nosso objetivo será o de identificar quais as principais contas que influenciam o debate sobre finanças pessoais na rede. Logo em seguida, foi realizado a renderização da base coletada, com a identificação e destaque dos maiores influenciadores na imagem gerada. Por fim, identificamos quais as principais co-hasitags que aparceram nos tweets, utilizadas para gerarem novas bases no NodeXL e passarem pela mesma análise identificada.
 
-Disponibilizamos um [gerador dinâmico de Grafos](https://mauricio-fernandes.quarto.pub/influencersfin/Grafos.html), em que o usuário poderá selecionar tanto a base de tweets, quanto o formato do gráfico da rede para visualização. Na mesma página, após o Grafo gerado pelo usuário, disponibilizamos a tabela com todos os influenciadores financeiros identificados.
+Disponibilizamos um [gerador dinâmico de Grafos](https://mauricio-rochalima.github.io/Trabalho-Relatorios-Reprodutiveis/Grafos.html), em que o usuário poderá selecionar tanto a base de tweets, quanto o formato do gráfico da rede para visualização. Na mesma página, após o Grafo gerado pelo usuário, disponibilizamos a tabela com todos os influenciadores financeiros identificados.
 :::
 
 ------------------------------------------------------------------------
