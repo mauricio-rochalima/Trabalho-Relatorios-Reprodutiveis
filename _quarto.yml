@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Influenciadores Financeiros"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Grafos.qmd
+        
+format:
+  html:
+     theme: Flatly
+     css: styles.css
+     toc: false
+     html-table-processing: none
+
+
+editor: visual
+bibliography: 'https://api.citedrive.com/bib/7b39468a-fd26-4049-9fe2-bde4e678adcc/references.bib?x=eyJpZCI6ICI3YjM5NDY4YS1mZDI2LTQwNDktOWZlMi1iZGU0ZTY3OGFkY2MiLCAidXNlciI6ICIyOTE3IiwgInNpZ25hdHVyZSI6ICJmN2E1Zjk1ZmM5M2IzODdkMTQyYjc3YjRkYjdmYzA4NDI1Mzg3YjgyNzdmM2FlODY0ZjkwMzE2MTllZjlmOTMwIn0=/bibliography.bib'
+# csl: https://github.com/citation-style-language/styles/blob/master/apa.csl
+csl: "https://csl.mendeley.com/styles/3801361/apa"

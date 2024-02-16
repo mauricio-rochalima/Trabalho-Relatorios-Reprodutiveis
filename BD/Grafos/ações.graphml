@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_PageRank" for="node" attr.name="PageRank" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_id">1</data>
+      <data key="v_label">acoesbr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">2</data>
+      <data key="v_label">acoesimportam</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">3</data>
+      <data key="v_label">luciocw</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">4</data>
+      <data key="v_label">economaticabr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">5</data>
+      <data key="v_label">vokininvest</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">6</data>
+      <data key="v_label">felippe_analyst</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">7</data>
+      <data key="v_label">guidottisilva</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">8</data>
+      <data key="v_label">webtcoficial</data>
+      <data key="v_PageRank">0.0234545844560793</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">9</data>
+      <data key="v_label">epbr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">10</data>
+      <data key="v_label">realpauloborba</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">11</data>
+      <data key="v_label">ellenaddison423</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n11">
+      <data key="v_id">12</data>
+      <data key="v_label">thegemshunter</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n12">
+      <data key="v_id">13</data>
+      <data key="v_label">somosnomos</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n13">
+      <data key="v_id">14</data>
+      <data key="v_label">escolacripto</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n14">
+      <data key="v_id">15</data>
+      <data key="v_label">denisectoledo8</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n15">
+      <data key="v_id">16</data>
+      <data key="v_label">botinhao</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n16">
+      <data key="v_id">17</data>
+      <data key="v_label">wallfigueiredo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n17">
+      <data key="v_id">18</data>
+      <data key="v_label">gorilainvest</data>
+      <data key="v_PageRank">0.0234545844560793</data>
+    </node>
+    <node id="n18">
+      <data key="v_id">19</data>
+      <data key="v_label">andrelenski</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n19">
+      <data key="v_id">20</data>
+      <data key="v_label">henriquehikgt</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n20">
+      <data key="v_id">21</data>
+      <data key="v_label">candeprofessor</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n21">
+      <data key="v_id">22</data>
+      <data key="v_label">10marcellofaria</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n22">
+      <data key="v_id">23</data>
+      <data key="v_label">jeffersonlucabr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n23">
+      <data key="v_id">24</data>
+      <data key="v_label">luciasantanna22</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n24">
+      <data key="v_id">25</data>
+      <data key="v_label">hellentaynan</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n25">
+      <data key="v_id">26</data>
+      <data key="v_label">eduardo_garufi</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n26">
+      <data key="v_id">27</data>
+      <data key="v_label">brainpowerbr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n27">
+      <data key="v_id">28</data>
+      <data key="v_label">nishioeduardo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n28">
+      <data key="v_id">29</data>
+      <data key="v_label">prmarcosbrasil1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n29">
+      <data key="v_id">30</data>
+      <data key="v_label">marcio_mendonc</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n30">
+      <data key="v_id">31</data>
+      <data key="v_label">giramundoap</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n31">
+      <data key="v_id">32</data>
+      <data key="v_label">force2mv</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n32">
+      <data key="v_id">33</data>
+      <data key="v_label">wellington_tds</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n33">
+      <data key="v_id">34</data>
+      <data key="v_label">rodrigues590804</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n34">
+      <data key="v_id">35</data>
+      <data key="v_label">sindifisconac</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n35">
+      <data key="v_id">36</data>
+      <data key="v_label">flordeserto</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n36">
+      <data key="v_id">37</data>
+      <data key="v_label">ufpeoficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n37">
+      <data key="v_id">38</data>
+      <data key="v_label">careca4p</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n38">
+      <data key="v_id">39</data>
+      <data key="v_label">oramainvest</data>
+      <data key="v_PageRank">0.0234545844560793</data>
+    </node>
+    <node id="n39">
+      <data key="v_id">40</data>
+      <data key="v_label">nicolaslicce</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n40">
+      <data key="v_id">41</data>
+      <data key="v_label">napoleaoadv</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n41">
+      <data key="v_id">42</data>
+      <data key="v_label">pge_ma</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n42">
+      <data key="v_id">43</data>
+      <data key="v_label">panksgo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n43">
+      <data key="v_id">44</data>
+      <data key="v_label">jocarlosdaraujo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n44">
+      <data key="v_id">45</data>
+      <data key="v_label">felipedospneus</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n45">
+      <data key="v_id">46</data>
+      <data key="v_label">vi_ruscito</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n46">
+      <data key="v_id">47</data>
+      <data key="v_label">j_ramacciotti</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n47">
+      <data key="v_id">48</data>
+      <data key="v_label">caio_c_antonio</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n48">
+      <data key="v_id">49</data>
+      <data key="v_label">falkalertas</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n49">
+      <data key="v_id">50</data>
+      <data key="v_label">fcardan</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n50">
+      <data key="v_id">51</data>
+      <data key="v_label">urtado_cesar</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n51">
+      <data key="v_id">52</data>
+      <data key="v_label">trademapapp</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n52">
+      <data key="v_id">53</data>
+      <data key="v_label">brasilsuino</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n53">
+      <data key="v_id">54</data>
+      <data key="v_label">filosofiadetrad</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n54">
+      <data key="v_id">55</data>
+      <data key="v_label">jhonata13179362</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n55">
+      <data key="v_id">56</data>
+      <data key="v_label">iqoption_pt</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n56">
+      <data key="v_id">57</data>
+      <data key="v_label">genialinveste</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n57">
+      <data key="v_id">58</data>
+      <data key="v_label">leiaflj</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n58">
+      <data key="v_id">59</data>
+      <data key="v_label">czambelo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n59">
+      <data key="v_id">60</data>
+      <data key="v_label">japonews_eth</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n60">
+      <data key="v_id">61</data>
+      <data key="v_label">tarcisiogdf</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n61">
+      <data key="v_id">62</data>
+      <data key="v_label">granjanews</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n62">
+      <data key="v_id">63</data>
+      <data key="v_label">exnova_pt</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n63">
+      <data key="v_id">64</data>
+      <data key="v_label">kratoncapital</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n64">
+      <data key="v_id">65</data>
+      <data key="v_label">1bertoalexandre</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n65">
+      <data key="v_id">66</data>
+      <data key="v_label">adrieli05758330</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n66">
+      <data key="v_id">67</data>
+      <data key="v_label">comdinheiro</data>
+      <data key="v_PageRank">0.0234545844560793</data>
+    </node>
+    <node id="n67">
+      <data key="v_id">68</data>
+      <data key="v_label">jose_saragoza</data>
+      <data key="v_PageRank">0.00952795358107207</data>
+    </node>
+    <node id="n68">
+      <data key="v_id">69</data>
+      <data key="v_label">danimontori_at</data>
+      <data key="v_PageRank">0.0212109385152712</data>
+    </node>
+    <node id="n69">
+      <data key="v_id">70</data>
+      <data key="v_label">alelansampa</data>
+      <data key="v_PageRank">0.00952795358104958</data>
+    </node>
+    <node id="n70">
+      <data key="v_id">71</data>
+      <data key="v_label">caminhodoinves1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n71">
+      <data key="v_id">72</data>
+      <data key="v_label">wladuarte</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n72">
+      <data key="v_id">73</data>
+      <data key="v_label">rbreia</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n73">
+      <data key="v_id">74</data>
+      <data key="v_label">charlesfibonacc</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n74">
+      <data key="v_id">75</data>
+      <data key="v_label">exxcedeoficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n75">
+      <data key="v_id">76</data>
+      <data key="v_label">truxtinvest</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n76">
+      <data key="v_id">77</data>
+      <data key="v_label">granacapital</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n77">
+      <data key="v_id">78</data>
+      <data key="v_label">sfainvest</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n78">
+      <data key="v_id">79</data>
+      <data key="v_label">kaio_csilva</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n79">
+      <data key="v_id">80</data>
+      <data key="v_label">cptm_oficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n80">
+      <data key="v_id">81</data>
+      <data key="v_label">arthurvallephd</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n81">
+      <data key="v_id">82</data>
+      <data key="v_label">b3_oficial</data>
+      <data key="v_PageRank">0.0340873294095019</data>
+    </node>
+    <node id="n82">
+      <data key="v_id">83</data>
+      <data key="v_label">carlosteles__</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n83">
+      <data key="v_id">84</data>
+      <data key="v_label">andreibecker</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n84">
+      <data key="v_id">85</data>
+      <data key="v_label">investfrugal</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n85">
+      <data key="v_id">86</data>
+      <data key="v_label">1nverpersona1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n86">
+      <data key="v_id">87</data>
+      <data key="v_label">incriptomoedas</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n87">
+      <data key="v_id">88</data>
+      <data key="v_label">econovisao</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n88">
+      <data key="v_id">89</data>
+      <data key="v_label">info_global_</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n89">
+      <data key="v_id">90</data>
+      <data key="v_label">bmp1357</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n90">
+      <data key="v_id">91</data>
+      <data key="v_label">criptomestres</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n91">
+      <data key="v_id">92</data>
+      <data key="v_label">lucaspereira_ef</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n92">
+      <data key="v_id">93</data>
+      <data key="v_label">vitorfaustinoyt</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n93">
+      <data key="v_id">94</data>
+      <data key="v_label">lipeinveste</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n94">
+      <data key="v_id">95</data>
+      <data key="v_label">ex_terior</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n95">
+      <data key="v_id">96</data>
+      <data key="v_label">marcosmanguelli</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n96">
+      <data key="v_id">97</data>
+      <data key="v_label">osdadosmostram</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n97">
+      <data key="v_id">98</data>
+      <data key="v_label">vanessadezem</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n98">
+      <data key="v_id">99</data>
+      <data key="v_label">alemartuchelli</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n99">
+      <data key="v_id">100</data>
+      <data key="v_label">maykoonayk</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n100">
+      <data key="v_id">101</data>
+      <data key="v_label">sobratema</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n101">
+      <data key="v_id">102</data>
+      <data key="v_label">bravacapital</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n102">
+      <data key="v_id">103</data>
+      <data key="v_label">hiltonboss90841</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n103">
+      <data key="v_id">104</data>
+      <data key="v_label">leiamoneytimes</data>
+      <data key="v_PageRank">0.0094991067047121</data>
+    </node>
+    <node id="n104">
+      <data key="v_id">105</data>
+      <data key="v_label">hsrodrigues2</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n105">
+      <data key="v_id">106</data>
+      <data key="v_label">camarasaopaulo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n106">
+      <data key="v_id">107</data>
+      <data key="v_label">phani_29</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n107">
+      <data key="v_id">108</data>
+      <data key="v_label">invest_nomad</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n108">
+      <data key="v_id">109</data>
+      <data key="v_label">carvalhoalves</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n109">
+      <data key="v_id">110</data>
+      <data key="v_label">fiinewspaper</data>
+      <data key="v_PageRank">0.0234545844560793</data>
+    </node>
+    <node id="n110">
+      <data key="v_id">111</data>
+      <data key="v_label">raquellyra</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n111">
+      <data key="v_id">112</data>
+      <data key="v_label">igoor_serrano</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n112">
+      <data key="v_id">113</data>
+      <data key="v_label">fabiooliveira18</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n113">
+      <data key="v_id">114</data>
+      <data key="v_label">cavalachepedro</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n114">
+      <data key="v_id">115</data>
+      <data key="v_label">indiabrazilcha1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n115">
+      <data key="v_id">116</data>
+      <data key="v_label">alcyrbeltrame</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n116">
+      <data key="v_id">117</data>
+      <data key="v_label">articainvest</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n117">
+      <data key="v_id">118</data>
+      <data key="v_label">ocesarkato</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n118">
+      <data key="v_id">119</data>
+      <data key="v_label">seguroambiental</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n119">
+      <data key="v_id">120</data>
+      <data key="v_label">eduardonishio</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n120">
+      <data key="v_id">121</data>
+      <data key="v_label">regbit1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n121">
+      <data key="v_id">122</data>
+      <data key="v_label">blockbr_</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n122">
+      <data key="v_id">123</data>
+      <data key="v_label">rodrigo__correa</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n123">
+      <data key="v_id">124</data>
+      <data key="v_label">midregional</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n124">
+      <data key="v_id">125</data>
+      <data key="v_label">thomasppessoaa</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n125">
+      <data key="v_id">126</data>
+      <data key="v_label">diariodegoias</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n126">
+      <data key="v_id">127</data>
+      <data key="v_label">keepgrowing_</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n127">
+      <data key="v_id">128</data>
+      <data key="v_label">cbcardoso01</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n128">
+      <data key="v_id">129</data>
+      <data key="v_label">hamampaulo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n129">
+      <data key="v_id">130</data>
+      <data key="v_label">capivaranab3</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n130">
+      <data key="v_id">131</data>
+      <data key="v_label">rafael__costa__</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n131">
+      <data key="v_id">132</data>
+      <data key="v_label">bancocentralbr</data>
+      <data key="v_PageRank">0.00970534529217073</data>
+    </node>
+    <node id="n132">
+      <data key="v_id">133</data>
+      <data key="v_label">midimashup</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n133">
+      <data key="v_id">134</data>
+      <data key="v_label">bbgemportugues</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n134">
+      <data key="v_id">135</data>
+      <data key="v_label">farialima_aai</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n135">
+      <data key="v_id">136</data>
+      <data key="v_label">robsob87</data>
+      <data key="v_PageRank">0.00501341742748694</data>
+    </node>
+    <node id="n136">
+      <data key="v_id">137</data>
+      <data key="v_label">youtube</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n137">
+      <data key="v_id">138</data>
+      <data key="v_label">petrobras</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n138">
+      <data key="v_id">139</data>
+      <data key="v_label">cleudo_lima</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n139">
+      <data key="v_id">140</data>
+      <data key="v_label">criptofacil</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n140">
+      <data key="v_id">141</data>
+      <data key="v_label">mfbohm</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n141">
+      <data key="v_id">142</data>
+      <data key="v_label">faustobotelho</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n142">
+      <data key="v_id">143</data>
+      <data key="v_label">tvgazetaoficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n143">
+      <data key="v_id">144</data>
+      <data key="v_label">jornaldagazeta</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n144">
+      <data key="v_id">145</data>
+      <data key="v_label">padtec</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n145">
+      <data key="v_id">146</data>
+      <data key="v_label">claudiacontaii</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n146">
+      <data key="v_id">147</data>
+      <data key="v_label">tucaandrada3</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n147">
+      <data key="v_id">148</data>
+      <data key="v_label">luizmoura123</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n148">
+      <data key="v_id">149</data>
+      <data key="v_label">nubank</data>
+      <data key="v_PageRank">0.0104959265440955</data>
+    </node>
+    <node id="n149">
+      <data key="v_id">150</data>
+      <data key="v_label">invest_academy</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n150">
+      <data key="v_id">151</data>
+      <data key="v_label">olhardigital</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n151">
+      <data key="v_id">152</data>
+      <data key="v_label">leiaagrotimes</data>
+      <data key="v_PageRank">0.0115924283674172</data>
+    </node>
+    <node id="n152">
+      <data key="v_id">153</data>
+      <data key="v_label">mashirafael</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n153">
+      <data key="v_id">154</data>
+      <data key="v_label">erer</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n154">
+      <data key="v_id">155</data>
+      <data key="v_label">interbr</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n155">
+      <data key="v_id">156</data>
+      <data key="v_label">futebol_info</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n156">
+      <data key="v_id">157</data>
+      <data key="v_label">professorbaroni</data>
+      <data key="v_PageRank">0.00411627957204191</data>
+    </node>
+    <node id="n157">
+      <data key="v_id">158</data>
+      <data key="v_label">felipetadewald</data>
+      <data key="v_PageRank">0.00411627957204191</data>
+    </node>
+    <node id="n158">
+      <data key="v_id">159</data>
+      <data key="v_label">nonoinvestidor</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n159">
+      <data key="v_id">160</data>
+      <data key="v_label">anbima_br</data>
+      <data key="v_PageRank">0.00411627957204191</data>
+    </node>
+    <node id="n160">
+      <data key="v_id">161</data>
+      <data key="v_label">netoinvest</data>
+      <data key="v_PageRank">0.00411627957204191</data>
+    </node>
+    <node id="n161">
+      <data key="v_id">162</data>
+      <data key="v_label">b3bipolar</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n162">
+      <data key="v_id">163</data>
+      <data key="v_label">tcinvestimentos</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n163">
+      <data key="v_id">164</data>
+      <data key="v_label">falkcapital</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n164">
+      <data key="v_id">165</data>
+      <data key="v_label">einvestidor</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n165">
+      <data key="v_id">166</data>
+      <data key="v_label">proeducacional</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n166">
+      <data key="v_id">167</data>
+      <data key="v_label">business</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n167">
+      <data key="v_id">168</data>
+      <data key="v_label">seekingalpha</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n168">
+      <data key="v_id">169</data>
+      <data key="v_label">markets</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n169">
+      <data key="v_id">170</data>
+      <data key="v_label">filipevillegas</data>
+      <data key="v_PageRank">0.00551182734717863</data>
+    </node>
+    <node id="n170">
+      <data key="v_id">171</data>
+      <data key="v_label">_robertomotta</data>
+      <data key="v_PageRank">0.00451500750779526</data>
+    </node>
+    <node id="n171">
+      <data key="v_id">172</data>
+      <data key="v_label">analiseenergia</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n172">
+      <data key="v_id">173</data>
+      <data key="v_label">segurancasp</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n173">
+      <data key="v_id">174</data>
+      <data key="v_label">prefdecotia</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n174">
+      <data key="v_id">175</data>
+      <data key="v_label">marketwatch</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n175">
+      <data key="v_id">176</data>
+      <data key="v_label">litecoin</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n176">
+      <data key="v_id">177</data>
+      <data key="v_label">microstrategy</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n177">
+      <data key="v_id">178</data>
+      <data key="v_label">rbainfo</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n178">
+      <data key="v_id">179</data>
+      <data key="v_label">radiotabajara</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n179">
+      <data key="v_id">180</data>
+      <data key="v_label">hrhmbnsalmaan</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n180">
+      <data key="v_id">181</data>
+      <data key="v_label">tmarketl</data>
+      <data key="v_PageRank">0.00952795358107207</data>
+    </node>
+    <node id="n181">
+      <data key="v_id">182</data>
+      <data key="v_label">jnegocios</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n182">
+      <data key="v_id">183</data>
+      <data key="v_label">investmattallen</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n183">
+      <data key="v_id">184</data>
+      <data key="v_label">spreaker</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n184">
+      <data key="v_id">185</data>
+      <data key="v_label">bmcnewstv</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n185">
+      <data key="v_id">186</data>
+      <data key="v_label">activtrades</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n186">
+      <data key="v_id">187</data>
+      <data key="v_label">modalmais</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n187">
+      <data key="v_id">188</data>
+      <data key="v_label">activtrades_pt</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n188">
+      <data key="v_id">189</data>
+      <data key="v_label">freepik</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n189">
+      <data key="v_id">190</data>
+      <data key="v_label">brianferoldi</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n190">
+      <data key="v_id">191</data>
+      <data key="v_label">valoreconomico</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n191">
+      <data key="v_id">192</data>
+      <data key="v_label">farialimaelevat</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n192">
+      <data key="v_id">193</data>
+      <data key="v_label">tevaindices</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n193">
+      <data key="v_id">194</data>
+      <data key="v_label">mmakersoficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n194">
+      <data key="v_id">195</data>
+      <data key="v_label">statusinvestbr</data>
+      <data key="v_PageRank">0.00551182734717863</data>
+    </node>
+    <node id="n195">
+      <data key="v_id">196</data>
+      <data key="v_label">degiro</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n196">
+      <data key="v_id">197</data>
+      <data key="v_label">reutersworld</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n197">
+      <data key="v_id">198</data>
+      <data key="v_label">ocriptomestre</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n198">
+      <data key="v_id">199</data>
+      <data key="v_label">minerva_beef3</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n199">
+      <data key="v_id">200</data>
+      <data key="v_label">getthejb</data>
+      <data key="v_PageRank">0.00385046094820635</data>
+    </node>
+    <node id="n200">
+      <data key="v_id">201</data>
+      <data key="v_label">b3</data>
+      <data key="v_PageRank">0.0041827342280008</data>
+    </node>
+    <node id="n201">
+      <data key="v_id">202</data>
+      <data key="v_label">viniciu06354450</data>
+      <data key="v_PageRank">0.0041827342280008</data>
+    </node>
+    <node id="n202">
+      <data key="v_id">203</data>
+      <data key="v_label">feantonioli21</data>
+      <data key="v_PageRank">0.00385046094820635</data>
+    </node>
+    <node id="n203">
+      <data key="v_id">204</data>
+      <data key="v_label">andradevini3</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n204">
+      <data key="v_id">205</data>
+      <data key="v_label">magalu</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n205">
+      <data key="v_id">206</data>
+      <data key="v_label">revistamt1</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n206">
+      <data key="v_id">207</data>
+      <data key="v_label">hilton</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n207">
+      <data key="v_id">208</data>
+      <data key="v_label">senhorhidden</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n208">
+      <data key="v_id">209</data>
+      <data key="v_label">brunoreisba</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n209">
+      <data key="v_id">210</data>
+      <data key="v_label">victordojornal</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n210">
+      <data key="v_id">211</data>
+      <data key="v_label">ivanbarboza_</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n211">
+      <data key="v_id">212</data>
+      <data key="v_label">sigaif</data>
+      <data key="v_PageRank">0.006508647186562</data>
+    </node>
+    <node id="n212">
+      <data key="v_id">213</data>
+      <data key="v_label">waldezoficial</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n213">
+      <data key="v_id">214</data>
+      <data key="v_label">danielalima_</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <node id="n214">
+      <data key="v_id">215</data>
+      <data key="v_label">consedbr</data>
+      <data key="v_PageRank">0.00558057354299817</data>
+    </node>
+    <node id="n215">
+      <data key="v_id">216</data>
+      <data key="v_label">nathfinancas</data>
+      <data key="v_PageRank">0.00501341742748694</data>
+    </node>
+    <node id="n216">
+      <data key="v_id">217</data>
+      <data key="v_label">xpinvestimentos</data>
+      <data key="v_PageRank">0.00501341742748694</data>
+    </node>
+    <node id="n217">
+      <data key="v_id">218</data>
+      <data key="v_label">investingbrasil</data>
+      <data key="v_PageRank">0.00351818766841189</data>
+    </node>
+    <edge source="n2" target="n68">
+    </edge>
+    <edge source="n2" target="n135">
+    </edge>
+    <edge source="n7" target="n7">
+    </edge>
+    <edge source="n11" target="n139">
+    </edge>
+    <edge source="n12" target="n140">
+    </edge>
+    <edge source="n13" target="n141">
+    </edge>
+    <edge source="n17" target="n17">
+    </edge>
+    <edge source="n24" target="n148">
+    </edge>
+    <edge source="n29" target="n103">
+    </edge>
+    <edge source="n37" target="n156">
+    </edge>
+    <edge source="n37" target="n157">
+    </edge>
+    <edge source="n37" target="n159">
+    </edge>
+    <edge source="n37" target="n160">
+    </edge>
+    <edge source="n37" target="n81">
+    </edge>
+    <edge source="n38" target="n38">
+    </edge>
+    <edge source="n42" target="n148">
+    </edge>
+    <edge source="n46" target="n162">
+    </edge>
+    <edge source="n51" target="n164">
+    </edge>
+    <edge source="n56" target="n169">
+    </edge>
+    <edge source="n56" target="n169">
+    </edge>
+    <edge source="n56" target="n170">
+    </edge>
+    <edge source="n66" target="n66">
+    </edge>
+    <edge source="n67" target="n68">
+    </edge>
+    <edge source="n68" target="n67">
+    </edge>
+    <edge source="n69" target="n68">
+    </edge>
+    <edge source="n68" target="n69">
+    </edge>
+    <edge source="n68" target="n180">
+    </edge>
+    <edge source="n73" target="n186">
+    </edge>
+    <edge source="n73" target="n186">
+    </edge>
+    <edge source="n73" target="n186">
+    </edge>
+    <edge source="n73" target="n186">
+    </edge>
+    <edge source="n81" target="n81">
+    </edge>
+    <edge source="n80" target="n81">
+    </edge>
+    <edge source="n80" target="n194">
+    </edge>
+    <edge source="n80" target="n194">
+    </edge>
+    <edge source="n96" target="n199">
+    </edge>
+    <edge source="n96" target="n200">
+    </edge>
+    <edge source="n96" target="n200">
+    </edge>
+    <edge source="n96" target="n201">
+    </edge>
+    <edge source="n96" target="n201">
+    </edge>
+    <edge source="n96" target="n202">
+    </edge>
+    <edge source="n96" target="n148">
+    </edge>
+    <edge source="n96" target="n148">
+    </edge>
+    <edge source="n96" target="n148">
+    </edge>
+    <edge source="n103" target="n151">
+    </edge>
+    <edge source="n103" target="n151">
+    </edge>
+    <edge source="n109" target="n109">
+    </edge>
+    <edge source="n116" target="n210">
+    </edge>
+    <edge source="n120" target="n211">
+    </edge>
+    <edge source="n129" target="n103">
+    </edge>
+    <edge source="n131" target="n214">
+    </edge>
+    <edge source="n131" target="n131">
+    </edge>
+    <edge source="n131" target="n131">
+    </edge>
+    <edge source="n131" target="n131">
+    </edge>
+    <edge source="n132" target="n215">
+    </edge>
+    <edge source="n132" target="n215">
+    </edge>
+    <edge source="n132" target="n216">
+    </edge>
+    <edge source="n132" target="n216">
+    </edge>
+  </graph>
+</graphml>

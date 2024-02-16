@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_PageRank" for="node" attr.name="PageRank" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_id">1</data>
+      <data key="v_label">medinacerecero</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">2</data>
+      <data key="v_label">hermanomendez</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">3</data>
+      <data key="v_label">officialradiuum</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">4</data>
+      <data key="v_label">aofdtonhao</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">5</data>
+      <data key="v_label">konsensusn</data>
+      <data key="v_PageRank">0.156929497034922</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">6</data>
+      <data key="v_label">refugiobitcoin</data>
+      <data key="v_PageRank">0.237206237645508</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">7</data>
+      <data key="v_label">fbioaparecidoc3</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">8</data>
+      <data key="v_label">therationalroot</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">9</data>
+      <data key="v_label">tuliorn</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">10</data>
+      <data key="v_label">saifedean</data>
+      <data key="v_PageRank">0.156929497034922</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">11</data>
+      <data key="v_label">httmolinaa</data>
+      <data key="v_PageRank">0.0561168460355809</data>
+    </node>
+    <edge source="n3" target="n5">
+    </edge>
+    <edge source="n4" target="n5">
+    </edge>
+    <edge source="n5" target="n4">
+    </edge>
+    <edge source="n5" target="n9">
+    </edge>
+  </graph>
+</graphml>

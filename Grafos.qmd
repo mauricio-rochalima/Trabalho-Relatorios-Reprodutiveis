@@ -1,0 +1,301 @@
+---
+title: ""
+
+format: 
+  html:
+    fig-width: 30
+    fig-height: 25
+---
+
+
+```{r Bibliotecas, include=FALSE, output=FALSE}
+```
+
+```{r Bibliotecas, include=FALSE, output=FALSE}
+library("dplyr") #for data manipulation
+library("igraph") # for social network analysis
+library("ggraph") 
+library(readxl)
+library(tidyverse)
+library(ggraph)
+library(tidygraph)
+library(graphlayouts)
+library(ggplot2)
+library(snahelper)
+library(miniCRAN)
+library(magrittr)
+library(remotes)
+library(intergraph)
+library(Cairo)
+library(ggrepel)
+library(here)
+library(knitr)
+library(kableExtra)
+library(tidytext)  
+library(DiagrammeR)
+
+
+```
+
+
+<<<<<<< HEAD
+***
+
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+=======
+>>>>>>> 39f9875a4e8adcc495a1ef9430a6d45d1462049e
+
+<html>
+
+<head>
+
+<title>Exemplo de Iframe Shiny</title>
+
+</head>
+
+<body>
+
+<h2>Customização dos Gráficos</h2>
+
+Utilize os controles das caixas de seleção para plotar os grafos das bases de tweets criada. Será possível selecionar a base de tweets criadas pelas palavras-chaves e hashtags indicadas no título dos grafos. Na segunda caixa de seleção é possível escolher o layout do gráfico.
+
+<!-- Aqui está o iframe que incorpora o aplicativo Shiny -->
+
+<iframe src="https://mauricio-fernandes.shinyapps.io/Grafo/" width= "124%" height="700">
+
+</iframe>
+
+</body>
+
+</html>
+
+<<<<<<< HEAD
+:::
+
+***
+=======
+
+>>>>>>> 39f9875a4e8adcc495a1ef9430a6d45d1462049e
+```{r include=FALSE, output=TRUE}
+# Grafos
+
+carregar_dados <- function(caminho_arquivo) {
+  
+  c <- here::here("BD",caminho_arquivo)  
+  
+  edges <- readxl::read_excel(c, sheet = "Edges", skip = 1)
+  vertices <- readxl::read_excel(c, sheet = "Vertices", skip = 1)
+  
+  Hashtag <- readxl::read_excel(c, sheet = "Overall Metrics", skip = 1)
+  Hashtag <- toString(Hashtag[30, 2])
+  
+  # Retorna a lista de dados
+  return(list(edges = edges, vertices = vertices, Hashtag = Hashtag))
+
+}
+
+
+
+
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+
+# Exemplo de uso:
+
+d <- here::here("BD","Influencers Tratados","Tabelas.xlsx")  
+
+caminho_tab <- read_excel(d,sheet = "Tabs")
+
+
+```
+
+```{r include=FALSE}
+
+# Função Plot Grafo
+
+plot_network <- function(graph, layout = "fr", Hashtag) {
+  set.seed(123)
+  
+  g <- net.tidy %>%
+    activate(nodes) %>%
+    mutate(PageRank = centrality_pagerank()) %>%
+    mutate(community = as.factor(group_infomap())) %>%
+    ggraph(layout = layout) +
+    labs(title = Hashtag) +
+    geom_edge_arc(alpha=.6,edge_width = 0.015,edge_colour = "#A8A8A8", arrow = arrow(angle = 0, length = unit(0.1, "inches"), ends = "last", type = "closed")) +
+    geom_edge_link(width = 1, colour = "lightgray") +
+    geom_node_point(aes(colour = community,size=10*PageRank)) +
+    geom_node_text(aes(label = label,size=3*PageRank), colour = "#000000",repel=TRUE,
+                   family = "serif",fontface = "bold") +
+    scale_size(range = c(0, 30)) + 
+    theme_graph(fg_text_colour = 'white') + 
+    theme(legend.position = "none")
+  
+  print(g)
+}
+
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+
+c <-  here("BD","Influencers Tratados","00-Influenciadores-localizados.xlsx")
+
+influencers <- read_excel(c,sheet = "Influencers")
+
+
+
+influencers <- influencers %>%
+  select(User_Name,Usuário, Descrição, PageRank, `N. Seguidores`) %>%
+  arrange(desc(PageRank))   %>%
+  mutate(`N. Seguidores` = format(`N. Seguidores`, big.mark = ".")) %>%
+  mutate(PageRank = format(PageRank, decimal.mark = ","))
+
+```
+
+
+## Tabela com todos os influenciadores localizados
+
+Na tabela abaixo encontram-se todos os influenciadores localizados em todas as bases de tweets identificadas.
+
+```{r echo=FALSE}
+
+
+
+
+kable(influencers, digits = 4,format = "html",caption="influencers",align="lllrr",escape = F, table.attr='class="table-fixed-header"') %>%
+
+     scroll_box(height = "550px"
+                
+                ,box_css = "border: 1px solid #ddd; padding: 5px; "
+                ,extra_css = NULL
+                ,fixed_thead = TRUE
+                
+                ) |>
+  
+    kable_styling(c('hover', 'condensed', 'responsive'),font_size = 16) 
+
+
+```
+
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+
+for (i in 1:17) {
+
+caminho_arquivo <- paste0(caminho_tab[i,1],".xlsx")
+
+dados <- carregar_dados(caminho_arquivo)
+
+
+edges <- carregar_dados(caminho_arquivo)$edges
+vertices <- carregar_dados(caminho_arquivo)$vertices
+Hashtag <- carregar_dados(caminho_arquivo)$Hashtag
+
+
+# Separação Tweets
+
+tweets <- edges
+tweets <- filter(tweets,tweets$Relationship!="Tweet")
+tweets <- filter(tweets,tweets$Language=="pt")
+
+
+
+#Criação do Grafo
+
+tweets$label <- tolower(tweets$`Vertex 1`)
+
+### Creating a data frame from the sender-receiver objects
+rts.df <- tweets %>% select(`Vertex 1`,`Vertex 2`)
+
+colnames(rts.df) <- c("rt.sender","rt.receiver")
+
+
+
+# Separar as contas que enviaram mensagem
+sources <- rts.df %>% distinct(rt.sender) %>% rename(label=rt.sender)
+
+# Separar as contas que receberam mensagem
+destination <- rts.df %>% distinct(rt.receiver) %>% rename(label=rt.receiver)
+
+
+# Criação da Tabela de Nós (Atores), incluindo chave primária para identificação dos nós
+nodes <- full_join(sources, destination,by="label")
+nodes <- full_join(sources, destination,by="label") %>% mutate(id = 1:nrow(nodes)) %>% select(id,everything())
+
+
+
+# Criação da Tabela de Arestas
+edges <- rts.df %>% left_join(nodes, by=c("rt.sender" = "label")) %>% rename(from="id")
+edges <- edges %>% left_join(nodes,by=c("rt.receiver" = "label")) %>% rename(to=id)
+
+
+edges <- select(edges,from,to)
+
+
+# Grafo
+
+
+
+net.tidy <- tbl_graph(
+  nodes = nodes, edges = edges, directed = TRUE
+)
+
+
+net.tidy <- net.tidy %>%
+  activate(nodes) %>%
+  mutate(PageRank = centrality_pagerank())
+
+
+
+# Escolha layout
+#l="nicely"
+#l="sphere" #um dos melhores
+#l="circlepack"
+#l= "layout fruchterman reingold"
+#l= layout.fruchterman.reingold(net.tidy)
+#l= "fr" #melhor opção
+#l="kk"
+#l="circle"
+#l=layout_randomly(net.tidy)
+#l="lgl"
+
+
+
+
+influencers <- left_join(influencers,nodes,by=c("User_Name"="label"))
+
+
+edges <- edges %>%
+  filter(from %in% influencers$id | to %in% influencers$id)
+
+
+net.tidy <- tbl_graph(
+  nodes = nodes, edges = edges, directed = TRUE
+)
+
+net.tidy <- net.tidy %>%
+  activate(nodes) %>%
+  mutate(PageRank = centrality_pagerank())
+
+
+# Criação dos Gráficos
+ plot_network(net.tidy,"kk",Hashtag)
+
+
+# Salvar Grafos
+# write_graph(net.tidy, paste0(here("BD","Grafos",caminho_tab[i,1]),".graphml"), format = "graphml")
+
+}
+
+
+```
+
