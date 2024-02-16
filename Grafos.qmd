@@ -38,9 +38,6 @@ library(DiagrammeR)
 ```
 
 
-<<<<<<< HEAD
-***
-
 
 ```{css, echo = FALSE}
 .justify {
@@ -49,8 +46,7 @@ library(DiagrammeR)
 ```
 
 ::: justify
-=======
->>>>>>> 39f9875a4e8adcc495a1ef9430a6d45d1462049e
+
 
 <html>
 
@@ -76,13 +72,10 @@ Utilize os controles das caixas de seleção para plotar os grafos das bases de 
 
 </html>
 
-<<<<<<< HEAD
 :::
 
 ***
-=======
 
->>>>>>> 39f9875a4e8adcc495a1ef9430a6d45d1462049e
 ```{r include=FALSE, output=TRUE}
 # Grafos
 

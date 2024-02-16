@@ -3,11 +3,10 @@ title: "Análise de Rede Social"
 author: "Mauricio Rocha Lima Fernandes"
 format: 
   html:
+    
     fig-width: 20
     fig-height: 18
-    
 date: "02/01/2024"
-
 editor: visual
 lang: pt
 editor_options: 
